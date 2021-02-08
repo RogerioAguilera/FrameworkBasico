@@ -13,6 +13,11 @@ Buscar a listagem de todos os livros (GET em todos os livros)
 Buscar um livro específico(GET em um livro específico)
     Requisitar o livro "15"
 
+Cadastrar um novo livro (POST)
+    Cadastrar um novo livro
+
+
+
 
 
 
